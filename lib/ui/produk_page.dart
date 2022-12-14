@@ -1,6 +1,5 @@
 import 'package:aplikasi_flutter_irfan/ui/Produk_detail.dart';
 import 'package:aplikasi_flutter_irfan/ui/produk_form.dart';
-import 'package:aplikasi_flutter_irfan/ui/produk_form.dart';
 import 'package:flutter/material.dart';
 
 class produkpage extends StatefulWidget {
